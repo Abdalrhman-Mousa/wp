@@ -1,0 +1,15 @@
+
+---Downloaded files---
+The import files for: Inspiro Lite - Elementor were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://127.0.0.1/wordpress
+Data file = C:\Bitnami\wordpress-6.0.1-0\apps\wordpress\htdocs/wp-content/uploads/2022/08/demo-content-import-file_2022-08-31__09-06-32.xml
+Widget file = C:\Bitnami\wordpress-6.0.1-0\apps\wordpress\htdocs/wp-content/uploads/2022/08/demo-widgets-import-file_2022-08-31__09-06-32.json
+Customizer file = C:\Bitnami\wordpress-6.0.1-0\apps\wordpress\htdocs/wp-content/uploads/2022/08/demo-customizer-import-file_2022-08-31__09-06-32.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
